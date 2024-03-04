@@ -204,7 +204,7 @@ const EditEmployeeModal = ({ employee, onClose }) => {
                   <option value="Seasonal">Seasonal</option>
                 </select>
               </div>
-              {/* Other input fields... */}
+             
               <div className="form-check">
                 <input
                   type="checkbox"
